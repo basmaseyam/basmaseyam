@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Basma%20Salem&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=300&section=header&text=Basma%20Seyam&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=51&descAlign=50)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Basma+Salem;Senior+Full+Stack+Developer;10%2B+Years+of+Experience;Building+Amazing+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Basma+Seyam;Senior+Full+Stack+Developer;10%2B+Years+of+Experience;Building+Amazing+Applications" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,8 +13,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Basma Salem
-Location: Cairo, Egypt 🇪🇬
+Name: Basma Seyam
 Role: Senior Full Stack Developer
 Experience: 10+ Years
 Education: B.Sc. Communication & Electrical Engineering, Cairo University (81.5%)
@@ -187,11 +186,7 @@ Real-time vehicle tracking system using GSM/GPS modules for location monitoring.
   </a>
 </p>
 
-<p align="center">
-  📍 <strong>Location:</strong> Maadi, Cairo, Egypt<br>
-  📞 <strong>Phone:</strong> +2 01112686868<br>
-  ✉️ <strong>Email:</strong> basmaseyam1991@gmail.com
-</p>
+
 
 ---
 
@@ -208,5 +203,5 @@ Real-time vehicle tracking system using GSM/GPS modules for location monitoring.
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/basmaseyam">Basma Salem</a>
+  ⭐️ From <a href="https://github.com/basmaseyam">Basma Seyam</a>
 </p>
