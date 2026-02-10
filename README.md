@@ -72,14 +72,14 @@ Specialization: Web & Mobile Development, Cloud Solutions, E-Commerce
 ## 💼 Professional Experience
 
 ### 🚀 Senior Full Stack Web Developer
-**Caravan Exposition** | Nov 2021 - Present
+**Igadgets** | April 2021 - Present
 - Design, develop, and maintain fully-fledged platforms with databases and servers
 - Work with AWS cloud console for SES services and email marketing
 - Implement dashboard admin panels using Python, HTML, CSS
 - Develop websites and mobile applications with Flutter framework
 
 ### 💻 Full Stack Web Developer
-**IGadgets Hub** | Dec 2019 - Nov 2021
+**Freelancer** | Jan 2017 - Jan 2021
 - Developed full back-end systems using Laravel, PHP, MySQL
 - Created web directories with admin panels and authorization systems
 - Built shopping list Flutter applications with Firebase integration
@@ -177,9 +177,6 @@ Real-time vehicle tracking system using GSM/GPS modules for location monitoring.
   </a>
   <a href="https://github.com/basmaseyam">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.peopleperhour.com/freelancer/technology-programming/basma-seyam-full-stack-web-developer-nnzqyz">
-    <img src="https://img.shields.io/badge/People_Per_Hour-0066CC?style=for-the-badge&logo=&logoColor=white" alt="People Per Hour" />
   </a>
   <a href="https://www.linkedin.com/in/basmaseyam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
