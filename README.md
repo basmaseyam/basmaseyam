@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9&height=300&section=header&text=Basma%20Seyam&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=51&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Basma%20Seyam&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Developer&descAlignY=51&descAlign=50)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Basma+Seyam;Senior+Full+Stack+Developer;10%2B+Years+of+Experience;Building+Amazing+Applications" alt="Typing SVG" />
